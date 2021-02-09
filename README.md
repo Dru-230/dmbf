@@ -32,4 +32,4 @@ maaf jika saya jarang on, saya sendiri punya kesibukan di real life hhee.
  gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 ##### Video Tutorial (no sound)
-[![Watch the video](https://dmbf-server.dz-tools.my.id/img/20210209_202004.jpg)](https://dmbf-server.dz-tools.my.id/video/tutorial.mp4)
+[![Watch the video](https://dmbf-server.dz-tools.my.id/img/20210209_202004.jpg?a=1)](https://dmbf-server.dz-tools.my.id/video/tutorial.mp4)
